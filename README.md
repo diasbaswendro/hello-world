@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Guys!
+I like python scripting. But I am newbie on programming world.
